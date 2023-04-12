@@ -1,0 +1,335 @@
+{
+  "users": [
+    {
+      "email": "ghg@test.com",
+      "password": "$2a$10$k5aNkuwN1T9jhO16okv3w.02SrN9zIMc1qwnv37T0nbjN1pIQaY5u",
+      "name": "sfasfns",
+      "id": 1
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$UIweiOYMCNvjoSnv6Ndn2uaMfICGvpZG3vceocdUf7V2ABAhx.yJK",
+      "name": "test",
+      "id": 2
+    },
+    {
+      "email": "husam@husam.com",
+      "password": "$2a$10$DYflnJnsToD1PKJWHIIIg.QZqE/h4YjlMWyncpd9kYeFcCbisS4Gy",
+      "name": "fxgdfg",
+      "id": 3
+    },
+    {
+      "email": "hp@test.com",
+      "password": "$2a$10$qNG.OJ5UM4oPblRFTLhXlu8egb4Ato1HdJAtDQo/0HEnLq7phWhRG",
+      "name": "hp",
+      "id": 4
+    },
+    {
+      "email": "hp@tefst.com",
+      "password": "$2a$10$heSWFpkAQkw6nXvCv.CWzO4OvFWW5.Uq8Jtt80bIT8QSqBSMB6jTW",
+      "name": "hpf",
+      "id": 5
+    },
+    {
+      "email": "hh50@gmail.com",
+      "password": "$2a$10$WFniY0yeD1PRxQu56DZ07.l.RLKNJqUI5jat3K8nmO4P.s5dT5N/G",
+      "name": "Ic",
+      "id": 6
+    },
+    {
+      "email": "hussam@example.com",
+      "password": "$2a$10$kgECNCKykHw6x9xNuHPgJe2qqkY2PPb6MqQxihglrcXiA5y.zvENG",
+      "name": "hussam",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 11 64GB",
+      "description": "The iPhone 11 was introduced in September 2019, and Apple has continued selling it as a lower-priced option alongside subsequent iPhone generations, with the launch of the iPhone 13 lineup. The iPhone 11 features a 6.1-inch display, a dual-lens camera, and an A13 Bionic chip. ",
+      "rating": 4.5,
+      "price": 399.99,
+      "Stock": 10,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnails": [
+        "/assets/images/product/iPhone-11-128GB/IPhone11-1.jpg",
+        "/assets/images/product/iPhone-11-128GB/IPhone11-2.jpg",
+        "/assets/images/product/iPhone-11-128GB/IPhone11-3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "iPhone 12 Mini 64G",
+      "description": "The Apple iPhone 12 mini (64GB) is a good iOS phone with 3.1GHz Hexa-core processor that allows run games and heavy applications With one SIM card slot, the Apple iPhone 12 mini (64GB) allows download up to 5000 Mbps for internet browsing, but it also depends on the carrier. ",
+      "rating": 4.69,
+      "price": 325,
+      "Stock": 30,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnails": [
+        "/assets/images/product/iPhone_12_Mini/IPhone12Mini-1.jpg",
+        "/assets/images/product/iPhone_12_Mini/IPhone12Mini-2.jpg",
+        "/assets/images/product/iPhone_12_Mini/IPhone12Mini-3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "iPhone 13 mini 128G",
+      "description": "The Apple iPhone 13 mini (128GB) is a good iOS phone with 3.23GHz Hexa-core processor that allows run games and heavy applications       With one SIM card slot, the Apple iPhone 13 mini (128GB) allows download up to 5000 Mbps for internet browsing, but it also depends on the carrier.",
+      "rating": 4.69,
+      "price": 559,
+      "Stock": 20,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnails": [
+        "/assets/images/product/iPhone_13_mini/IPhone13Mini-1.jpg",
+        "/assets/images/product/iPhone_13_mini/IPhone13Mini-2.jpg",
+        "/assets/images/product/iPhone_13_mini/IPhone13Mini-3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "iPhone 13 Pro Max 128G",
+      "description": "The Apple iPhone 13 Pro Max (128GB) is a good iOS phone with 3.23GHz Hexa-core processor that allows run games and heavy applications With one SIM card slot, the Apple iPhone 13 Pro Max (128GB) allows download up to 5000 Mbps for internet browsing, but it also depends on the carrier.",
+      "rating": 5,
+      "price": 997.46,
+      "Stock": 30,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnails": [
+        "/assets/images/product/iPhone-13-Pro-Max/IPhone13ProMax-1.jpg",
+        "/assets/images/product/iPhone-13-Pro-Max/IPhone13ProMax-2.jpg",
+        "/assets/images/product/iPhone-13-Pro-Max/IPhone13ProMax-3.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "iPhone X 64GB",
+      "description": "The Apple iPhone X (64GB) is a good iOS phone with 2.39GHz Hexa-core processor that allows run games and heavy applications With one SIM card slot, the Apple iPhone X (64GB) allows download up to 1024 Mbps for internet browsing, but it also depends on the carrier.",
+      "rating": 4.5,
+      "price": 199,
+      "Stock": 15,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnails": [
+        "/assets/images/product/iPhone-X-4GB/IphoneX-1.jpg",
+        "/assets/images/product/iPhone-X-4GB/IphoneX-1.jpg",
+        "/assets/images/product/iPhone-X-4GB/IphoneX-1.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "iPhone 14 Pro Max 128G",
+      "description": " The Apple iPhone 14 Pro Max (128GB) is a good iOS phone with 3.46GHz Hexa-core processor that allows run games and heavy applications.       Great connectivity of this device includes Bluetooth 5.3 + A2DP/LE, WiFi 802.11 a/b/g/n/ac/ax [wifi6] (2.4GHz, 5GHz) + MIMO and NFC to make mobile payments or connection to other devices.",
+      "rating": 5,
+      "price": 1099,
+      "Stock": 30,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnails": [
+        "/assets/images/product/iPhone-14-Pro-Max-128G/IPhone14ProMax-1.jpg",
+        "/assets/images/product/iPhone-14-Pro-Max-128G/IPhone14ProMax-1.jpg",
+        "/assets/images/product/iPhone-14-Pro-Max-128G/IPhone14ProMax-1.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Samsung A32 4ram 128G",
+      "description": "The Samsung Galaxy A32 (SM-A325F/DS 128GB/4GB) is a good Android phone with 2GHz Octa-core processor that allows run games and heavy applications An advantage of the Samsung Galaxy A32 (SM-A325F/DS 128GB/4GB) is the possibility of using two mobile carriers, a Dual-SIM device with two SIM card slots.",
+      "rating": 4.8,
+      "price": 279.99,
+      "Stock": 30,
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "thumbnails": [
+        "/assets/images/product/iPhone-11-128GB/IPhone11-1.jpg",
+        "/assets/images/product/iPhone-11-128GB/IPhone11-2.jpg",
+        "/assets/images/product/iPhone-11-128GB/IPhone11-3.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "samsung Galaxy A53 5G",
+      "description": "The Samsung Galaxy A53 (SM-A5360 256GB) is a good Android phone with 2.4GHz Octa-core processor that allows run games and heavy applications       An advantage of the Samsung Galaxy A53 (SM-A5360 256GB) is the possibility of using two mobile carriers, a Dual-SIM device with two SIM card slots.",
+      "rating": 5,
+      "price": 325,
+      "Stock": 30,
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "thumbnails": [
+        "/assets/images/product/Galaxy-A53/GalaxyA53-1.jpg",
+        "/assets/images/product/Galaxy-A53/GalaxyA53-2.jpg",
+        "/assets/images/product/Galaxy-A53/GalaxyA53-3.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "samsung galaxy z fold4 5g",
+      "description": "The Samsung Galaxy Z Fold 4 (SM-F936U 1TB) is a good Android phone with 3.19GHz Octa-core processor that allows run games and heavy applications       With one SIM card slot, the Samsung Galaxy Z Fold 4 (SM-F936U 1TB) allows download up to 5000 Mbps for internet browsing, but it also depends on the carrier.",
+      "rating": 5,
+      "price": 1230,
+      "Stock": 20,
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "thumbnails": [
+        "/assets/images/product/samsung-galaxy-z/SamsungGalaxyZ-1.jpg",
+        "/assets/images/product/samsung-galaxy-z/SamsungGalaxyZ-2.jpg",
+        "/assets/images/product/samsung-galaxy-z/SamsungGalaxyZ-3.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Rockerz 450 Pro Headphones",
+      "description": "boAt Rockerz 450 Pro | Wireless Headphone with 40mm Massive Drivers, Mountainous Playback Upto 70 Hours, Asap Chargee, Noise cancelling is good for the price, and optional wired listening is handy.      ",
+      "rating": 4.69,
+      "price": 41,
+      "Stock": 20,
+      "brand": "Rockerz",
+      "category": "Headphones",
+      "thumbnails": [
+        "/assets/images/product/Rockerz-450-Pro/Rockerz450Pro-1.jpg",
+        "/assets/images/product/Rockerz-450-Pro/Rockerz450Pro-2.jpg",
+        "/assets/images/product/Rockerz-450-Pro/Rockerz450Pro-3.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "dbE HBT80 Headphone",
+      "description": "dbE HBT80 Wireless Bluetooth Headset HBT 80 Wireless Headphone It is light in weight and easy to use, Noise cancelling is good for the price, and optional wired listening is handy.      ",
+      "rating": 4,
+      "price": 30,
+      "Stock": 25,
+      "brand": "dbE",
+      "category": "Headphones",
+      "thumbnails": [
+        "/assets/images/product/HBT80Headphone/HBT80Headphone-1.jpg",
+        "/assets/images/product/HBT80Headphone/HBT80Headphone-2.jpg",
+        "/assets/images/product/HBT80Headphone/HBT80Headphone-3.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Sony WH-XB910N Extra",
+      "description": "The WH-XB910N noise cancelling headphones enhance all your low-end frequencies for exceptional bass Yet these wireless headphones also maintain vocal clarity for a wonderfully rich, well-rounded listening experience. ",
+      "rating": 4.8,
+      "price": 248,
+      "Stock": 30,
+      "brand": "Sony",
+      "category": "Headphones",
+      "thumbnails": [
+        "/assets/images/product/Sony-WH-XB910N/Sony-WH-XB910N-1.jpg",
+        "/assets/images/product/Sony-WH-XB910N/Sony-WH-XB910N-2.jpg",
+        "/assets/images/product/Sony-WH-XB910N/Sony-WH-XB910N-3.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Beats Solo3 Wireless",
+      "description": "      High-performance wireless Bluetooth headphones, Features the Apple W1 chip and Class 1 wireless Bluetooth connectivity With up to 40 hours of battery life, Compatible with iOS and Android devices.",
+      "rating": 4.9,
+      "price": 158,
+      "Stock": 30,
+      "brand": "Beats",
+      "category": "Headphones",
+      "thumbnails": [
+        "/assets/images/product/Beats-Solo3/Beats-Solo3-1.jpg",
+        "/assets/images/product/Beats-Solo3/Beats-Solo3-2.jpg",
+        "/assets/images/product/Beats-Solo3/Beats-Solo3-3.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "W20 TWS Earphone ",
+      "description": "Picun W20 True Wireless Earbuds 36 Hours Playtime Bluetooth 5.0+EDR HiFi Crystal Bass IPX8 Waterproof in-Ear Headphones w/HD Mic, Touch Control, Hall Switch, USB-C, Single/Twin Mode Comfy for Sports     ",
+      "rating": 4.2,
+      "price": 26,
+      "Stock": 30,
+      "brand": "Picun",
+      "category": "Headphones",
+      "thumbnails": [
+        "/assets/images/product/W20-TWS-Earphone/W20-TWS-Earphone-1.jpg",
+        "/assets/images/product/W20-TWS-Earphone/W20-TWS-Earphone-2.jpg",
+        "/assets/images/product/W20-TWS-Earphone/W20-TWS-Earphone-3.jpg"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "orderItems": [
+        {
+          "id": 3,
+          "title": "iPhone 13 mini 128G",
+          "price": 559,
+          "image": "/assets/images/product/iPhone_13_mini/IPhone13Mini-1.jpg",
+          "Stock": 20,
+          "quantity": 1,
+          "products": 3
+        }
+      ],
+      "shippingAddress": {
+        "country": "palestine",
+        "city": "gaza",
+        "address": "gdsg",
+        "postalCode": "21212"
+      },
+      "totalPrice": "559.00",
+      "createdAt": "4/12/2023",
+      "id": 1
+    },
+    {
+      "paymentMethod": "PayPal",
+      "amount_paid": "559.00",
+      "status": "COMPLETED",
+      "create_time": "2023-04-12T01:00:59Z",
+      "update_time": "2023-04-12T01:01:10Z",
+      "email_address": "sb-rcbku25438340@business.example.com",
+      "id": "2VP65588SM264171M"
+    },
+    {
+      "orderItems": [
+        {
+          "id": 3,
+          "title": "iPhone 13 mini 128G",
+          "price": 559,
+          "image": "/assets/images/product/iPhone_13_mini/IPhone13Mini-1.jpg",
+          "Stock": 20,
+          "quantity": 1,
+          "products": 3
+        }
+      ],
+      "shippingAddress": {
+        "country": "palestine",
+        "city": "gaza",
+        "address": "gdsg",
+        "postalCode": "21212"
+      },
+      "totalPrice": "559.00",
+      "createdAt": "4/12/2023",
+      "id": 2
+    },
+    {
+      "orderItems": [
+        {
+          "id": 3,
+          "title": "iPhone 13 mini 128G",
+          "price": 559,
+          "image": "/assets/images/product/iPhone_13_mini/IPhone13Mini-1.jpg",
+          "Stock": 20,
+          "quantity": 1,
+          "products": 3
+        }
+      ],
+      "shippingAddress": {
+        "country": "palestine",
+        "city": "gaza",
+        "address": "gdsg",
+        "postalCode": "21212"
+      },
+      "totalPrice": "559.00",
+      "createdAt": "4/12/2023",
+      "id": 3
+    }
+  ]
+}
